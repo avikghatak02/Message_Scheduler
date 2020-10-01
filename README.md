@@ -23,3 +23,4 @@ A python script to send messages.
 
 ### Twilio scheduled Message
 ``` python automate.py "{{ your_message }}" "HH:MM" ```
+hi kkc
